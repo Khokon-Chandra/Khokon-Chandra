@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khokon Chandra</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **WeMeet**
+- 🔭 I’m currently working on **Competitive Programming**
 
 - 💬 Ask me about **Laravel, vuejs, Linux, API Development**
 
