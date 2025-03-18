@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 💬 Ask me about **Laravel, vuejs, Linux, API Development**
+- 💬 Ask me about **PHP, Laravel, vuejs, Nuxt.js, Tailwind css, MySql, Sqlite, API Development**
 
 - 📫 How to reach me **khokonchandra4@gmail.com**
 
